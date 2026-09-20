@@ -6,7 +6,7 @@
 
 Construyo soluciones empresariales y herramientas que simplifican el trabajo diario de otros desarrolladores.
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-informaticosistema.wordpress.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://informaticosistema.wordpress.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-anthoserv--ship--it.github.io-174F32?style=for-the-badge&logo=githubpages&logoColor=white)](https://anthoserv-ship-it.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-AnthoServ--Ship--it-181717?style=for-the-badge&logo=github)](https://github.com/AnthoServ-Ship-it)
 
 </div>
@@ -58,7 +58,8 @@ Extensión para Visual Studio Code que permite navegar con `Ctrl+clic` por expre
 
 ## Contacto
 
-- Portafolio y artículos: [Informático Sistema](https://informaticosistema.wordpress.com)
+- Portafolio: [anthoserv-ship-it.github.io](https://anthoserv-ship-it.github.io)
+- Artículos: [Informático Sistema](https://informaticosistema.wordpress.com)
 - GitHub: [@AnthoServ-Ship-it](https://github.com/AnthoServ-Ship-it)
 - Ubicación: Loja, Ecuador
 
